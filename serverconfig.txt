@@ -1,0 +1,6 @@
+world=/terraria/Worlds/MyWorld.wld
+autocreate=2
+worldname=ChoreoWorld
+difficulty=0
+maxplayers=8
+port=7777
